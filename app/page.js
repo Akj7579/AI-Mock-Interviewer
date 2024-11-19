@@ -44,11 +44,11 @@ const page = () => {
 
               {
                 <div>
-                  <h1>'Abin's GitHub Page'</h1>
+                  <h1>'Connect With Me'</h1>
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://github.com/Akj7579/AI-Mock-Interview"
+                    href="https://www.linkedin.com/in/abin-k-john-63b32517a/"
                   >
                     <FaGithub className="w-10 h-8" />
                   </a>
